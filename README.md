@@ -12,8 +12,13 @@ Royal blue & midnight blue themed UI
 Modern design with hidden scrollbars and visible input box
 
 Technologies Used-->
+
 Node.js
+
 Express.js
+
 Socket.IO
+
 Vanilla JavaScript for client-side logic
+
 CSS (Open Sans font, midnight blue theme)
